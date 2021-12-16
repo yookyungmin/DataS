@@ -45,6 +45,8 @@ public class Namecard {
 			if(num==3) {
 				System.out.println("종료하겠습니다");
 				break;
+			} else {
+				System.out.println("번호를 다시 입력하세요");
 			}
 		}
 		
