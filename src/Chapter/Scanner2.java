@@ -6,7 +6,7 @@ class Scanner2{
 
 	String str = "Hello";
 	String input = null; // 하나의 스트링을 input에 저장 가능 // 아무입력 안된 input
-
+ 
 	Scanner sc = new Scanner(System.in);
 
 	System.out.println("please Type a String ");
