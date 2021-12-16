@@ -34,7 +34,7 @@ public class Namecard {
 				company = sc.nextLine();
 				System.out.println("정상적으로 입력되었습니다");
 				
-				continue;
+				
 			}
 			if(num ==2) {
 				System.out.println("검색할 이름을 입력하세요 (like검색)");
